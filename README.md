@@ -28,5 +28,5 @@ Building a Secure Digital Future
 [<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>](https://git-scm.com/)
 
 ### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
 
