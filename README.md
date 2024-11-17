@@ -1,6 +1,7 @@
-## Hi there 👋 Myself Pravin
-Building a Secure Digital Future
+<h1 align="center"> Hi!! there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
+<h3 align="center">Building a Secure Digital Future</h3>
 
+<br>
 <img align="right" width="390" height="290" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45a5f81c21214021c605fb4f45eca4f6-1644946438/Illustration112%20%281%29/make-lofi-aesthetic-illustrations-for-you.gif">
 
 
@@ -15,6 +16,8 @@ Building a Secure Digital Future
 - ⚡ Fun fact: I love Anime
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ### I code in
 [<img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>](https://www.python.org/)
 [<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/)
@@ -26,6 +29,7 @@ Building a Secure Digital Future
 [<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>](https://www.mysql.com/)
 [<img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>](https://www.gnu.org/software/bash/)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
