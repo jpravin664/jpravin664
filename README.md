@@ -1,13 +1,11 @@
 <div align="center">
   
-<img width="390" height="290" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45a5f81c21214021c605fb4f45eca4f6-1644946438/Illustration112%20%281%29/make-lofi-aesthetic-illustrations-for-you.gif">
+<img width="390" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2MG0xaHNuMDZ4MzNhanZqcmphZHhncmNvZWJrNzZ2b3ZkdnB3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
 
 </div>
-<h1 align="center"> Hi!! there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
+<h1 align="center"> Hi!! there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /> I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
 <h3 align="center">Building a Secure Digital Future</h3>
   
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pravinj64/" target="_blank">
