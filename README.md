@@ -1,25 +1,22 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
+<img width="390" height="290" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45a5f81c21214021c605fb4f45eca4f6-1644946438/Illustration112%20%281%29/make-lofi-aesthetic-illustrations-for-you.gif">
+
 </div>
+<h1 align="center"> Hi!! there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
+<h3 align="center">Building a Secure Digital Future</h3>
+  
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pravinj64/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="50" alt="linkedin logo"  />
+  </a> &nbsp;
   <a href="mailto:manopravin1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="50" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h2 align="center">I'm Pravin</h2>
 
 ###
 
@@ -94,14 +91,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpravin664&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpravin664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpravin664&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpravin664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jpravin664&theme=monokai&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jpravin664&theme=monokai&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="200" alt="trophy graph"  />
 </div>
 
 ###
