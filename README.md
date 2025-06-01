@@ -28,7 +28,7 @@
 ###
 
 <p align="left">🔭 I’m currently learning Front-end Development  <br>🤝 I’m looking to collaborate on Backend Technologies  <br>💬 Ask me anything about Tech  <br>😄 Pronouns: Programmer/Prog  <br>🚀 Future Aspirations: Ethical Hacker, Security Architect  <br>⚡ Fun fact: I love Anime</p>
- 
+
 ###
 
 <picture>
@@ -83,16 +83,25 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jpravin664&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jpravin664&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jpravin664&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpravin664&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpravin664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpravin664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jpravin664&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jpravin664&theme=monokai&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
