@@ -1,36 +1,98 @@
-<h1 align="center"> Hi!! there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
-<h3 align="center">Building a Secure Digital Future</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<br>
-<img align="right" width="390" height="290" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45a5f81c21214021c605fb4f45eca4f6-1644946438/Illustration112%20%281%29/make-lofi-aesthetic-illustrations-for-you.gif">
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/pravinj64/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:manopravin1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 
-- 🌱 I’m currently learning Ethical Hacking
-- 💬 Ask me about Tech
-- 📫 How to reach me:
-  <br />
- [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/pravinj64/)
-- 😄 Pronouns: Programmer/Prog
-- 🚀 Future Aspirations: Ethical Hacker, Security Architect.
-- ⚡ Fun fact: I love Anime
+<h1 align="center">Hey there 👋</h1>
 
+###
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="center">I'm Pravin</h2>
 
-### I code in
-[<img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>](https://www.python.org/)
-[<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/)
-[<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>](https://isocpp.org/)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>](https://www.mysql.com/)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>](https://www.gnu.org/software/bash/)
+###
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="left">👩‍💻  About Me</h2>
 
-### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
+###
 
+<p align="left">🔭 I’m currently learning Front-end Development  <br>🤝 I’m looking to collaborate on Backend Technologies  <br>💬 Ask me anything about Tech  <br>😄 Pronouns: Programmer/Prog  <br>🚀 Future Aspirations: Ethical Hacker, Security Architect  <br>⚡ Fun fact: I love Anime</p>
+ 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">🔥   My Stats :</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jpravin664&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpravin664&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpravin664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jpravin664&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
