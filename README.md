@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2MG0xaHNuMDZ4MzNhanZqcmphZHhncmNvZWJrNzZ2b3ZkdnB3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2MG0xaHNuMDZ4MzNhanZqcmphZHhncmNvZWJrNzZ2b3ZkdnB3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="350" alt="Coding GIF">
 </div>
 
 ---
@@ -26,22 +26,40 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-###
-
-<p align="left"> &nbsp;
-  Ever since I've been young, I had a great interest in technology, and ever since then I've wanted to build a solid foundation in programming and cyber Security. I am currently pursuing a B.Tech in Computer Science with a Cyber Security specialisation at SRM University. I'm developing skills in frontend and backend development, as well as foundational machine learning. My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. Right now, I’m learning about ethical hacking, VAPT, secure coding, and machine learning concepts, which are helping me gain a better understanding of how to work with software securely. I enjoy being creative and building tech-centric solutions to modern-day problems.
+<p align="left">
+  Ever since I've been young, I had a great interest in technology, and ever since then I've wanted to build a solid foundation in programming and cyber Security. I'm currently pursuing a <strong>B.Tech in Computer Science</strong> with a specialization in <strong>Cyber Security</strong> at SRM University.<br>
   
+  I’m actively building skills in:
 </p>
 
-###
+- ⚙️ Frontend & Backend Development  
+- 🔐 Ethical Hacking, VAPT, and Secure Coding  
+- 🧠 Foundational Machine Learning Concepts  
+- 📈 Data Structures & Algorithms for Problem Solving  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left">
+  My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure. Right now, I'm diving deep into areas like ethical hacking, machine learning, and secure application development to better understand the intersection of AI and cybersecurity.
+</p>
+<p align="left">
+  I believe in continuous learning and using technology to solve real-world challenges. Let’s connect and innovate together!
+</p>
+
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/jpravin664/jpravin664/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+---
 
 ###
 
