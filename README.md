@@ -30,7 +30,10 @@
 
 ###
 
-<p align="left">🔭 I’m currently learning AI/ML <br>🤝 I’m looking to collaborate on Backend Technologies  <br>💬 Ask me anything about Tech  <br>😄 Pronouns: Programmer/Prog  <br>🚀 Future Aspirations: Ethical Hacker, Security Architect  <br>⚡ Fun fact: I love Anime</p>
+<p align="left"> &nbsp;
+  Ever since I've been young, I had a great interest in technology, and ever since then I've wanted to build a solid foundation in programming and cyber Security. I am currently pursuing a B.Tech in Computer Science with a Cyber Security specialisation at SRM University. I'm developing skills in frontend and backend development, as well as foundational machine learning. My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. Right now, I’m learning about ethical hacking, VAPT, secure coding, and machine learning concepts, which are helping me gain a better understanding of how to work with software securely. I enjoy being creative and building tech-centric solutions to modern-day problems.
+  
+</p>
 
 ###
 
