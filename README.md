@@ -1,18 +1,26 @@
+
+<h1 align="center"> Hi!! there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /> I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
+
+###
 <div align="center">
   
-<img width="390" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2MG0xaHNuMDZ4MzNhanZqcmphZHhncmNvZWJrNzZ2b3ZkdnB3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=24f0ff&center=true&vCenter=true&width=440&lines=Frontend+Developer;Cybersecurity+Student;Enjoys+Problem+Solving;Exploring+Backend+%26+AI%2FML" alt="Typing SVG" />
 
 </div>
-<h1 align="center"> Hi!! there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /> I'm <a href="https://www.linkedin.com/in/pravinj64/"target="_blank">Pravin</h1> 
-<h3 align="center">Building a Secure Digital Future</h3>
-  
+
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2MG0xaHNuMDZ4MzNhanZqcmphZHhncmNvZWJrNzZ2b3ZkdnB3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="300" alt="Coding GIF">
+</div>
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pravinj64/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a> &nbsp;
   <a href="mailto:manopravin1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="50" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -22,7 +30,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently learning Front-end Development  <br>🤝 I’m looking to collaborate on Backend Technologies  <br>💬 Ask me anything about Tech  <br>😄 Pronouns: Programmer/Prog  <br>🚀 Future Aspirations: Ethical Hacker, Security Architect  <br>⚡ Fun fact: I love Anime</p>
+<p align="left">🔭 I’m currently learning AI/ML <br>🤝 I’m looking to collaborate on Backend Technologies  <br>💬 Ask me anything about Tech  <br>😄 Pronouns: Programmer/Prog  <br>🚀 Future Aspirations: Ethical Hacker, Security Architect  <br>⚡ Fun fact: I love Anime</p>
 
 ###
 
