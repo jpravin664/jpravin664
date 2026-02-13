@@ -37,7 +37,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  Ever since I've been young, I had a great interest in technology, and ever since then I've wanted to build a solid foundation in programming and cyber Security. I'm currently pursuing a <strong>B.Tech in Computer Science</strong> with a specialization in <strong>Cyber Security</strong> at SRM University.<br>
+ Ever since I was young, I have had a strong interest in technology, which inspired me to build a solid foundation in programming and cybersecurity. I'm currently pursuing a <strong>B.Tech in Computer Science</strong> with a specialization in <strong>Cyber Security</strong> at SRM University.<br>
   
   I’m actively building skills in:
 </p>
@@ -48,10 +48,10 @@
 - 📈 Data Structures & Algorithms for Problem Solving  
 
 <p align="left">
-  My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure. Right now, I'm diving deep into areas like ethical hacking, machine learning, and secure application development to better understand the intersection of AI and cybersecurity.
+  My learning extends beyond coursework, I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure. Right now, I'm diving deep into areas like ethical hacking, machine learning, and secure application development to better understand the intersection of AI and cybersecurity.
 </p>
 <p align="left">
-  I believe in continuous learning and using technology to solve real-world challenges. Let’s connect and innovate together!
+  I am passionate about continuous learning and applying technology to create meaningful solutions for real-world challenges. Let’s connect and build something impactful together!
 </p>
 
 
