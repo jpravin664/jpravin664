@@ -109,30 +109,37 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 ###
-
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<br clear="both">
+<h2 align="center">🔥 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jpravin664&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=jpravin664&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+
+
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jpravin664&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 </div>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpravin664&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpravin664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="180" alt="languages graph"  />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=jpravin664&theme=radical&hide_border=false" />
+
 </div>
 
-###
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jpravin664&theme=monokai&column=8&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=jpravin664&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8" />
+
 </div>
+
+---
+
+
 
 ###
